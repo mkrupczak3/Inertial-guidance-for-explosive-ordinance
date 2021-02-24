@@ -2,6 +2,7 @@
 Using in-expensive silicon-etched accelerometers to create inertial-guided ordinance  
 
 Accelerometer:
+
 https://www.youtube.com/watch?v=KZVgKu6v808&t=2s
 
 Inertial guidance:
