@@ -5,7 +5,9 @@ Accelerometer:
 
 https://www.youtube.com/watch?v=KZVgKu6v808&t=2s
 
-Inertial guidance:
+Inertial guidance (don't blame me, blame Wernher von Braun):
+
+https://youtu.be/p7gF_aBG3Fw
 
 https://www.youtube.com/watch?v=T9jXoG0QYIA
 
