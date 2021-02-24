@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=T9jXoG0QYIA
 https://www.youtube.com/watch?v=y3lLVet9By4
 
 TODO
+
+See also:
+https://github.com/mkrupczak3/OpenAerialForwardArtilleryObservation
